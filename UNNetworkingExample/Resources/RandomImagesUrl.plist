@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagesUrl1</key>
+	<string>http://www.dynamicdrive.com/dynamicindex4/lightbox2/flower_thumb.jpg</string>
+	<key>imagesUrl2</key>
+	<string>http://www.dynamicdrive.com/dynamicindex4/lightbox2/horses_thumb.jpg</string>
+	<key>imagesUrl3</key>
+	<string>http://www.dynamicdrive.com/dynamicindex4/lightbox2/sushi_thumb.jpg</string>
+	<key>imagesUrl4</key>
+	<string>http://www.dynamicdrive.com/dynamicindex4/lightbox2/sushi2_thumb.jpg</string>
+	<key>imagesUrl5</key>
+	<string>http://www.nasa.gov/images/content/54350main_MM_image_feature_101_jw4.jpg</string>
+	<key>imagesUrl7</key>
+	<string>https://share.sandia.gov/images2005/f4_thmb1.jpg</string>
+	<key>imagesUrl8</key>
+	<string>https://share.sandia.gov/images2005/f4_thmb2.jpg</string>
+	<key>imagesUrl9</key>
+	<string>https://share.sandia.gov/images2005/f4_thmb3.jpg</string>
+	<key>imagesUrl10</key>
+	<string>http://allseeing-i.com/ASIHTTPRequest/tests/images/small-image.jpg</string>
+	<key>imagesUrl10 - 2</key>
+	<string>http://cdn.macrumors.com/article/2010/09/03/145454-itunes_10_icon.jpg</string>
+	<key>imagesUrl10 - 3</key>
+	<string>http://cdn.macrumors.com/avatarcache/19622.gif</string>
+	<key>imagesUrl10 - 4</key>
+	<string>http://cdn.macrumors.com/avatarcache/255998.gif</string>
+	<key>imagesUrl10 - 5</key>
+	<string>http://t0.gstatic.com/images?q=tbn:ANd9GcSlhHhQBJS25SbQl931Qg__Z9Bb9OjL9xkcmSEGIXQk_0kMP7JvQg</string>
+	<key>imagesUrl10 - 6</key>
+	<string>http://t2.gstatic.com/images?q=tbn:ANd9GcQjNX7N575YZBZUtNA5_gDZxDaIa9Wdp7nzGSxCdAJfmcOLhrKa</string>
+	<key>imagesUrl10 - 7</key>
+	<string>http://t0.gstatic.com/images?q=tbn:ANd9GcTMGjpSLKDZnGxD2KSrxDovYWA-vB1li6Wl_sKOeYh0TcXxVixs</string>
+	<key>imagesUrl10 - 8</key>
+	<string>http://t3.gstatic.com/images?q=tbn:ANd9GcRjR1mXe9wcwv-ikg3CBJtu66LFSbDCwubaYaaw9DKnXnQMHj1DqA</string>
+	<key>imagesUrl10 - 9</key>
+	<string>http://t2.gstatic.com/images?q=tbn:ANd9GcT_OK9xjcbeBR0dXotZyoXPdps4p9RlRBEuVkamyzp5FjcrIH9_</string>
+	<key>imagesUrl10 - 10</key>
+	<string>http://t1.gstatic.com/images?q=tbn:ANd9GcTyspEltIPB-m3a1mAfMTQVB_y-FyIdDg_ftg2dO1l2EFYRMitV</string>
+	<key>imagesUrl10 - 12</key>
+	<string>http://tctechcrunch.files.wordpress.com/2010/09/screen-shot-2010-09-04-at-1-03-26-am1.png?w=640</string>
+	<key>imagesUrl10 - 13</key>
+	<string>http://t1.gstatic.com/images?q=tbn:ANd9GcQ51HUxrNoJcJE_cvYGvIRILUoYh0oK6khDntTDiHN2edqTq-IM</string>
+	<key>imagesUrl10 - 14</key>
+	<string>http://t0.gstatic.com/images?q=tbn:ANd9GcT1zUWmxlV0In9_ehAv9HSYsJGtdcBnjGk3QWykkDeEbQ8WISkU</string>
+	<key>New item</key>
+	<string>http://www.travelblog.org/Wallpaper/pix/tb_fiji_sunset_wallpaper.jpg</string>
+	<key>New item - 2</key>
+	<string>http://wallpaperhost.org/wp-content/gallery/1_wallpaper_01/guitar-wallpaper-1024x768-951605.jpg</string>
+	<key>New item - 3</key>
+	<string>http://wallpaperhost.org/wp-content/gallery/1_wallpaper_02/tb_fiji_sunset_wallpaper.jpg</string>
+	<key>New item - 4</key>
+	<string>http://wallpaperhost.org/wp-content/gallery/1_wallpaper_03/turtle-wallpaper-1152x864.jpg</string>
+	<key>New item - 5</key>
+	<string>http://th06.deviantart.net/fs22/PRE/f/2008/026/4/e/TSNP_1600x1200_wallpaper_by_alexiuss.jpg</string>
+	<key>New item - 6</key>
+	<string>http://good-wallpapers.com/pictures/4509/1440_Route_66_wallpaper.jpg</string>
+	<key>New item - 7</key>
+	<string>http://wallpaper.us.com/upload/DesktopWallpapers/cache/Smile-Wallpapers-animation-smile-cartoon-wallpaper-1600x1200.jpg</string>
+	<key>New item - 8</key>
+	<string>http://vicsuburbantrains.com.au/images/categories/download_icon_small.gif</string>
+	<key>New item - 9</key>
+	<string>http://www.ua-ix.net.ua/img/icons/small_icon_zip.gif</string>
+</dict>
+</plist>
