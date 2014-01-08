@@ -47,7 +47,7 @@
 - (void)viewWillAppear:(BOOL)animated{
     [super viewWillAppear:animated];
     
-    NSString* urlString = @"http://wallpaper.us.com/upload/DesktopWallpapers/cache/Smile-Wallpapers-animation-smile-cartoon-wallpaper-1920x1200.jpg";
+    NSString* urlString = @"http://blog.gettyimages.com/wp-content/uploads/2013/01/Siberian-Tiger-Running-Through-Snow-Tom-Brakefield-Getty-Images-200353826-001.jpg";
     NSURLRequest* request = [NSURLRequest requestWithURL:[NSURL URLWithString:urlString] 
                                              cachePolicy:NSURLRequestReloadIgnoringCacheData
                                          timeoutInterval:20];
